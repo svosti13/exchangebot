@@ -1,1 +1,1 @@
-"# exchangebot" 
+@svosti_exchange
